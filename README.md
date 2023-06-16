@@ -20,7 +20,7 @@ Password harus memenuhi kriteria berikut:
 
 - Minimal 6 karakter
 - Minimal 1 huruf kapital
-- Minimal satu karakter khusus (!, @, #, $, &, \*)
+- Minimal satu karakter khusus (!, @, #, $, &, \*, .)
 
 ## Contoh Penggunaan
 
